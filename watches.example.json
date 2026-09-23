@@ -1,0 +1,11 @@
+[
+  {
+    "id": "phoebe-msg-2026-11-14",
+    "label": "Phoebe Bridgers @ MSG, Nov 14",
+    "events": [
+      { "source": "seatgeek", "id": "6612345" },
+      { "source": "ticketmaster", "id": "vvG1zZ9example" }
+    ],
+    "targetPrice": 60
+  }
+]
