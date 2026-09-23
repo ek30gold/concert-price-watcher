@@ -1,0 +1,26 @@
+{
+  "_embedded": {
+    "events": [
+      {
+        "id": "vvG1zZ9example",
+        "name": "Phoebe Bridgers",
+        "url": "https://www.ticketmaster.com/event/vvG1zZ9example",
+        "dates": { "start": { "localDate": "2026-11-14", "localTime": "20:00:00" } },
+        "priceRanges": [
+          { "type": "standard", "currency": "USD", "min": 79.5, "max": 225 },
+          { "type": "standard including fees", "currency": "USD", "min": 98.4, "max": 262.1 }
+        ],
+        "_embedded": {
+          "venues": [{ "name": "Madison Square Garden", "city": { "name": "New York" }, "state": { "stateCode": "NY" } }],
+          "attractions": [{ "name": "Phoebe Bridgers" }]
+        }
+      },
+      {
+        "id": "vvG1zZ9noprice",
+        "name": "Small Room Show",
+        "dates": { "start": { "localDate": "2026-11-20" } },
+        "_embedded": { "venues": [{ "name": "Bowery Ballroom", "city": { "name": "New York" }, "state": { "stateCode": "NY" } }] }
+      }
+    ]
+  }
+}
